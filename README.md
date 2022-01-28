@@ -1,0 +1,3 @@
+# Python-URI_beecrowd
+Exercícios URI/Beecrowd feitos por pura diversão...
+Sou relativamente iniciante na programação. Aceito quaisquer críticas aos meus códigos.
